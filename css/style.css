@@ -1,0 +1,49 @@
+*{margin: 0; box-sizing: border-box;}
+
+  /*background-color: #6D00AB;*/
+
+.Banner{float:left; width: 100%;}
+  .Banner .logo{width: 30%; height:200px ; vertical-align: middle; margin-left: 450px;}
+
+
+.Nav{float:left; width: 100%;  min-height: 20%; background: #6D00AB;}
+    .Nav li{float:left; width: 25%; text-align: center; list-style: none;}
+    .Nav a{display:block; width: 100%; padding: 10px 0; color:#fff; font-weight: bold; text-decoration: none; font-size: 20px;}
+    .Nav a:hover{background: hsl(283, 100%, 48%);}
+
+
+    .Center{text-align: center;}
+
+    .Content{float:left; width: 100%; padding: 15px;}
+    
+    .Resultado{display: none; float:left; width: 70%; border: 2px solid #00ff0d; background: #d8ffd5; text-align:center; padding: 15px; margin: 20px 15% 10px 15%;}
+    
+    .Formulario{float:left; width: 70%; height: 300px; margin: 20px 15%;}
+        .Formulario h1{color: #6D00AB; font-style: italic; margin-bottom: 15px;}
+        .FormularioInput{float:left; width: 50%; padding: 0 5%;}
+        .FormularioInput100{width: 100% !important;}
+        .FormularioInput input[type='number'] , .FormularioInput select{width: 80%; height: 25px; margin-top: 5px;}
+        .FormularioInput input[type='text'] , .FormularioInput select{width: 80%; height: 25px; margin-top: 5px;}
+        .FormularioInput input[type='submit']{display:inline-block; padding: 15px 35px; margin: 15px 0; border:0; cursor: pointer; background: #6D00AB; color:#fff; font-weight: bold; text-align: center; border-radius: 10px;}
+        .FormularioInput input[type='submit']:hover{background-color: hsl(283, 100%, 48%);}
+
+.Tabela{width: 100%; text-align: center;}
+    .Tabela tr:nth-child(2n -1) {background: #ccc;}
+    .Tabela tr:first-child {background: #6D00AB; color: #fff; font-weight: bold; font-size: 20px;}
+    .Tabela td{width: 20%; height: 20%;}
+    
+  .Content h2 {color: #6D00AB; font-style: italic;}
+  .hr{margin-bottom: 15px;}
+  .erro img{width: 50%; margin-left: 260px;}
+   h3{color: #6D00AB; font-style: italic; text-align: center;}
+
+  
+
+
+
+
+
+
+ 
+
+
